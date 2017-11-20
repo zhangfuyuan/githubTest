@@ -1,6 +1,6 @@
-# my-vue
+# client
 
-> A Vue.js project
+> a shopping vue project
 
 ## Build Setup
 
